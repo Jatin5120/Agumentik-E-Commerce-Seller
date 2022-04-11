@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agumentik E Commerce Seller</string>
+    <string name="facebook_app_id">667820237599218</string>
+    <string name="fb_login_protocol_scheme">fb667820237599218</string>
+    <string name="facebook_client_token">81710d4999d6dd2389a0caf03f0fa184</string>
+</resources>
